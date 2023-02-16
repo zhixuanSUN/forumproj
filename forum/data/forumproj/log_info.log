@@ -1,0 +1,5 @@
+2023-02-16 17:59:46,779 INFO [main] c.f.LoggerTest [StartupInfoLogger.java:51] Starting LoggerTest using Java 19.0.2 with PID 15741 (started by sunzhixuan in /Users/sunzhixuan/Desktop/proj/forumproj)
+2023-02-16 17:59:46,781 INFO [main] c.f.LoggerTest [SpringApplication.java:630] No active profile set, falling back to 1 default profile: "default"
+2023-02-16 17:59:47,330 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:56] Adding welcome page template: index
+2023-02-16 17:59:47,403 INFO [main] c.f.LoggerTest [StartupInfoLogger.java:57] Started LoggerTest in 0.805 seconds (process running for 1.12)
+2023-02-16 17:59:47,550 INFO [main] c.f.LoggerTest [LoggerTest.java:22] info log
